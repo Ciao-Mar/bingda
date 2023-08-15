@@ -1,7 +1,0 @@
-<launch>
-  <group ns="car_A">
-  <!-- rviz -->
-    <node pkg="rviz" type="rviz" name="rviz" required="true"
-          args="-d $(find robot_navigation)/rviz/navigation.rviz"/>
-  </group>
-</launch>

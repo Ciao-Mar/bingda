@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/bingda/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/bingda/catkin_ws/src/lidar/hls_lfcd_lds_driver/include/**",
+        "/home/bingda/catkin_ws/src/lidar/sc_mini/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

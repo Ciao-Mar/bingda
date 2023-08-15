@@ -1,0 +1,12 @@
+<!-- <launch>
+   rviz  
+    <node pkg="rviz" type="rviz" name="rviz" required="true"
+          args="-d $(find robot_navigation)/rviz/navigation.rviz"/>
+</launch> -->
+
+
+<launch>
+   <!-- rviz  -->
+    <node pkg="rviz" type="rviz" name="rviz"  required="true"
+          args="-d $(find robot_navigation)/rviz/navigation.rviz"/>
+</launch>
